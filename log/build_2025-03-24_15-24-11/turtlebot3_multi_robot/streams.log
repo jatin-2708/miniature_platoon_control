@@ -1,0 +1,72 @@
+[0.418s] Invoking command in '/home/bayesi4n/iop/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bayesi4n/iop/install/turtlebot3_lane_changing_leader:/home/bayesi4n/iop/install/turtlebot3_follower_control:/opt/ros/humble /usr/bin/cmake /home/bayesi4n/iop/src/turtlebot3_multi_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bayesi4n/iop/install/turtlebot3_multi_robot
+[0.477s] -- The C compiler identification is GNU 11.4.0
+[0.561s] -- The CXX compiler identification is GNU 11.4.0
+[0.578s] -- Detecting C compiler ABI info
+[0.655s] -- Detecting C compiler ABI info - done
+[0.664s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.664s] -- Detecting C compile features
+[0.665s] -- Detecting C compile features - done
+[0.667s] -- Detecting CXX compiler ABI info
+[0.758s] -- Detecting CXX compiler ABI info - done
+[0.769s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.770s] -- Detecting CXX compile features
+[0.770s] -- Detecting CXX compile features - done
+[0.770s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.952s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.006s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.124s] -- Configuring done
+[1.126s] -- Generating done
+[1.127s] -- Build files have been written to: /home/bayesi4n/iop/build/turtlebot3_multi_robot
+[1.131s] Invoked command in '/home/bayesi4n/iop/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bayesi4n/iop/install/turtlebot3_lane_changing_leader:/home/bayesi4n/iop/install/turtlebot3_follower_control:/opt/ros/humble /usr/bin/cmake /home/bayesi4n/iop/src/turtlebot3_multi_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bayesi4n/iop/install/turtlebot3_multi_robot
+[1.133s] Invoking command in '/home/bayesi4n/iop/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bayesi4n/iop/install/turtlebot3_lane_changing_leader:/home/bayesi4n/iop/install/turtlebot3_follower_control:/opt/ros/humble /usr/bin/cmake --build /home/bayesi4n/iop/build/turtlebot3_multi_robot -- -j9 -l9
+[1.198s] Invoked command in '/home/bayesi4n/iop/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bayesi4n/iop/install/turtlebot3_lane_changing_leader:/home/bayesi4n/iop/install/turtlebot3_follower_control:/opt/ros/humble /usr/bin/cmake --build /home/bayesi4n/iop/build/turtlebot3_multi_robot -- -j9 -l9
+[1.214s] Invoking command in '/home/bayesi4n/iop/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bayesi4n/iop/install/turtlebot3_lane_changing_leader:/home/bayesi4n/iop/install/turtlebot3_follower_control:/opt/ros/humble /usr/bin/cmake --install /home/bayesi4n/iop/build/turtlebot3_multi_robot
+[1.226s] -- Install configuration: ""
+[1.227s] -- Execute custom install script
+[1.228s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/gazebo_multi_nav2_world.launch.py
+[1.238s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/gazebo_multi_world.launch.py
+[1.252s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/gazebo_threebots_straight.launch.py
+[1.278s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/bringup_launch.py
+[1.303s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/localization_launch.py
+[1.321s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/navigation_launch.py
+[1.334s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/rviz_launch.py
+[1.350s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/slam_launch.py
+[1.366s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/meshes/burger_base.dae
+[1.381s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/meshes/lds.dae
+[1.395s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/meshes/tire.dae
+[1.404s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/model-1_4.sdf
+[1.412s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/model.config
+[1.422s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/model.sdf
+[1.441s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/lds.dae
+[1.458s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/r200.dae
+[1.467s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/tire.dae
+[1.480s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/waffle_base.dae
+[1.488s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model-1_4.sdf
+[1.498s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model.config
+[1.506s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model.sdf
+[1.517s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model_nocamera.sdf
+[1.529s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//rviz/multi_nav2_default_view.rviz
+[1.538s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//rviz/nav2_default_view.rviz
+[1.549s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/common_properties.urdf
+[1.559s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/turtlebot3_burger.urdf
+[1.568s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/turtlebot3_waffle.urdf
+[1.580s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//worlds/multi_empty_world.world
+[1.587s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//worlds/multi_robot_world.world
+[1.596s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//params/nav2_params.yaml
+[1.612s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/multi_robot.dsv
+[1.625s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/ament_index/resource_index/package_run_dependencies/turtlebot3_multi_robot
+[1.637s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/ament_index/resource_index/parent_prefix_path/turtlebot3_multi_robot
+[1.646s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/ament_prefix_path.sh
+[1.664s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/ament_prefix_path.dsv
+[1.673s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/path.sh
+[1.682s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/path.dsv
+[1.691s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.bash
+[1.701s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.sh
+[1.713s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.zsh
+[1.722s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.dsv
+[1.740s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/package.dsv
+[1.749s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/ament_index/resource_index/packages/turtlebot3_multi_robot
+[1.759s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/cmake/turtlebot3_multi_robotConfig.cmake
+[1.769s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/cmake/turtlebot3_multi_robotConfig-version.cmake
+[1.776s] -- Symlinking: /home/bayesi4n/iop/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/package.xml
+[1.789s] Invoked command in '/home/bayesi4n/iop/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bayesi4n/iop/install/turtlebot3_lane_changing_leader:/home/bayesi4n/iop/install/turtlebot3_follower_control:/opt/ros/humble /usr/bin/cmake --install /home/bayesi4n/iop/build/turtlebot3_multi_robot

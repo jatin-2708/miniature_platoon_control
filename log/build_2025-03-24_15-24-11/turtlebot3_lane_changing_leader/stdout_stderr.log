@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating turtlebot3_lane_changing_leader.egg-info
+writing turtlebot3_lane_changing_leader.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_lane_changing_leader.egg-info/dependency_links.txt
+writing entry points to turtlebot3_lane_changing_leader.egg-info/entry_points.txt
+writing requirements to turtlebot3_lane_changing_leader.egg-info/requires.txt
+writing top-level names to turtlebot3_lane_changing_leader.egg-info/top_level.txt
+writing manifest file 'turtlebot3_lane_changing_leader.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot3_lane_changing_leader.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_lane_changing_leader.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/lib/python3.10/site-packages/turtlebot3-lane-changing-leader.egg-link (link to .)
+Installing lane_changing_leader script to /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/lib/turtlebot3_lane_changing_leader
+
+Installed /home/bayesi4n/iop/build/turtlebot3_lane_changing_leader
+running symlink_data
+creating /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/share/ament_index
+creating /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/share/ament_index/resource_index
+creating /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/share/ament_index/resource_index/packages
+symbolically linking /home/bayesi4n/iop/build/turtlebot3_lane_changing_leader/resource/turtlebot3_lane_changing_leader -> /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/share/ament_index/resource_index/packages
+symbolically linking /home/bayesi4n/iop/build/turtlebot3_lane_changing_leader/package.xml -> /home/bayesi4n/iop/install/turtlebot3_lane_changing_leader/share/turtlebot3_lane_changing_leader
